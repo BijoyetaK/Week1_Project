@@ -106,7 +106,7 @@ indicating highest deaths per 100k. This tells us there could be other factors t
 ![image](https://user-images.githubusercontent.com/126313924/233286266-1fe59473-f11e-4277-9f19-791ee0626ed2.png)
 ![image](https://user-images.githubusercontent.com/126313924/233286364-fc5c93a0-e071-41dd-b9da-802d358446f5.png)
 
-```html
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -640,7 +640,7 @@ indicating highest deaths per 100k. This tells us there could be other factors t
         
 </script>
 </html>
-```
+
 
 
 ### Is there a relationship between health Insurance coverage and heart disease mortality rates?
